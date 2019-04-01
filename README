@@ -1,4 +1,4 @@
-he following bugs have been fixed.
+The following bugs have been fixed.
 -fixed "Can not read property 'ticks' of undefined" error in FLOT version 1.0.3
 -fixed a problem where axis tick labels are duplicated in FLOT version 1.0.3
 
