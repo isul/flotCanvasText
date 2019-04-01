@@ -1,3 +1,8 @@
+he following bugs have been fixed.
+-fixed "Can not read property 'ticks' of undefined" error in FLOT version 1.0.3
+-fixed a problem where axis tick labels are duplicated in FLOT version 1.0.3
+
+
 Flot Canvas Text Project
 
 Release 0.1 (Sep/16/2010) - Compatible with FLOT v. 0.6
